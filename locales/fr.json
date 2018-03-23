@@ -10,5 +10,11 @@
 	"Nom": "Nom",
 	"Prenom": "Prenom",
 	"Téléphone": "Téléphone",
-	"Courriel": "Courriel"
+	"Courriel": "Courriel",
+	"Projet Veille Node.js": "Projet Veille Node.js",
+	"Tim - Collège de Maisonneuve": "Tim - Collège de Maisonneuve",
+	"Cours : Programmation et veille technologique": "Cours : Programmation et veille technologique",
+	"TP2 - Node.js Express et MongoDB - Samuel Célestin": "TP2 - Node.js Express et MongoDB - Samuel Célestin",
+	"Remise : 23 Mars 2018": "Remise : 23 Mars 2018",
+	"Projet utilisant Node.js, Express et MongoDB pour développer une application Web de gestion de membres": "Projet utilisant Node.js, Express et MongoDB pour développer une application Web de gestion de membres"
 }

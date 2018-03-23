@@ -6,5 +6,12 @@
 	"nom": "Last name",
 	"prenom": "First name",
 	"telephone": "Telephone",
-	"clavardage": "chat"
+	"clavardage": "chat",
+	"Projet Veille Node.js": "Node Project.js",
+	"Tim - Collège de Maisonneuve": "Maisonneuve College",
+	"Cours : Programmation et veille technologique": "Courses: Programming and technology",
+	"TP2 - Node.js Express et MongoDB - Samuel Célestin": "TP2 - Node.js Express and MongoDB - Samuel Célestin",
+	"Remise : 23 Mars 2018": "Remise : 23 Mars 2018",
+	"Projet utilisant Node.js, Express et MongoDB pour développer une application Web de gestion de membres": "Project using Node.js, Express and MongoDB to develop a member management web application"
+
 }

@@ -6,5 +6,9 @@
 	"nom": "Nom",
 	"prenom": "Prénom",
 	"telephone": "Téléphone",
-	"clavardage": "clavardage"
+	"clavardage": "clavardage",
+	"Nom": "Nom",
+	"Prenom": "Prenom",
+	"Téléphone": "Téléphone",
+	"Courriel": "Courriel"
 }

@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 .global {
   width: 100%;
@@ -12,13 +13,13 @@ body {
   border-bottom: : 1px dotted #555;
 }
 .couleur-entete {
-  background-color: #7cd79c;
+  background-color: #d77c7c;
 }
 .couleur-main {
-  background-color: #dddddd;
+  background-color: #484848;
 }
 .couleur-footer {
-  background-color: #7cd79c;
+  background-color: #d77c7c;
 }
 .couleur-footer li {
   color: #2e2c28;

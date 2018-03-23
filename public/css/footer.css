@@ -18,7 +18,8 @@
   display: block;
   text-decoration: none;
   padding: 5px;
-  border-bottom: 1px dotted #7cd79c;
+  border-bottom: 1px dotted #d77c7c;
+  color: white;
 }
 .pied-page ul li a:hover {
   color: #be4509;
